@@ -14,6 +14,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
+[![view on github](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Asceticadarsh/lead_scoring_case_study.git)
+
 ## Header 2
 
 > This is a blockquote following a header.
